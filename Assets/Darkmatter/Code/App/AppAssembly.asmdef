@@ -1,0 +1,20 @@
+{
+    "name": "AppAssembly",
+    "rootNamespace": "Darkmatter.App",
+    "references": [
+        "GUID:cf1df9e1968a94c4686f2fbe5ef907fc",
+        "GUID:23f9a018fbd2e1242a0525718cc761d6",
+        "GUID:00bcf444fe1ffd8468345b96caa37633",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:4307f53044263cf4b835bd812fc161a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
